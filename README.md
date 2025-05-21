@@ -19,7 +19,7 @@ The prediction process involves these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url> # Replace <repository_url> with the actual URL
+    git clone [https://github.com/Rithvik119am/Braille-charecter-recognition](https://github.com/Rithvik119am/Braille-charecter-recognition)
     cd <repository_directory>
     ```
 2.  **Create and activate a virtual environment (recommended):**
